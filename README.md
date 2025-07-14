@@ -51,26 +51,7 @@ Este prototipo sirve como referencia visual para:
 - [ ] Exportación de reportes
 
 ---
-*Desarrollado para optimizar la gestión de equipos de trabajo*
-2. index.html
-El archivo HTML completo del prototipo que ya creamos anteriormente.
 
-3. .gitignore
-# System files
-.DS_Store
-Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-
-# Logs
-*.log
-
-# Cache
-*.cache
-4. docs/SETUP.md
-markdown
 # Configuración del Proyecto
 
 ## Base de Datos (Supabase)
