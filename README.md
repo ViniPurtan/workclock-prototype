@@ -46,7 +46,7 @@ Este prototipo sirve como referencia visual para:
 
 ## 📋 Próximos Pasos
 - [ ] Aplicación móvil en FlutterFlow
-- [✓] Integración completa con Supabase
+  [✓] Integración completa con Supabase
 - [ ] Notificaciones automáticas
 - [ ] Exportación de reportes
 
