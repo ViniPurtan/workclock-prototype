@@ -3,7 +3,7 @@
 Sistema de Gestión de Turnos y Vacaciones para equipos de 9 personas.
 
 ## 🌟 Demo en Vivo
-👉 **[Ver Prototipo](https://tu-usuario.github.io/workclock-prototype/)**
+👉 **[Ver Prototipo](https://vinipurtan.github.io/workclock-prototype/)**
 
 ## ✨ Características
 - ✅ Turnos rotativos T1 (7 personas) y T2 (2 personas)
@@ -66,4 +66,4 @@ Este prototipo sirve como referencia visual para:
 
 ## Despliegue
 - GitHub Pages: Automático desde main branch
-- URL: https://tu-usuario.github.io/workclock-prototype/
+- URL: https://vinipurtan.github.io/workclock-prototype/
